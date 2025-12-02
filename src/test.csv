@@ -1,7 +1,0 @@
-Car,c1,Maruti800,180.0,4,0.0,5,0,5000.0,false,5000.0
-Truck,t1,Mahindra,160.0,4,0.0,5000.0,0.0,25000.0,false,0.0
-Bus,b1,DelhiBus,140.0,6,0.0,50,500.0,0.0,0,12000.0,false,0.0
-Airplane,a1,Boeng,900.0,30000,0.0,200,10000.0,0.0,0,150000.0,0.0
-CargoShip,cs1,titanic,50.0,false,0.0,50000.0,0.0,0.0,false,0.0
-CargoShip,cs2,SailShip,30.0,true,0.0,50000.0,0.0,100.0,false,1100.0
-Car,c2,Maruti800,190.0,4,0.0,5,0,2000.0,false,2000.0
